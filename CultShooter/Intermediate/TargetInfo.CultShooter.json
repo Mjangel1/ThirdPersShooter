@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CultShooter",
+			"Path": "..\\Source\\CultShooter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CultShooterEditor",
+			"Path": "..\\Source\\CultShooterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

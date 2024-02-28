@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\marcelo\\documents\\unreal projects\\thirdpersshooter\\cultshooter\\source\\cultshooter\\cultshooter.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\marcelo\\documents\\unreal projects\\thirdpersshooter\\cultshooter\\intermediate\\build\\win64\\x64\\cultshootereditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\marcelo\\documents\\unreal projects\\thirdpersshooter\\cultshooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cultshooter\\definitions.cultshooter.h",
+            "c:\\users\\marcelo\\documents\\unreal projects\\thirdpersshooter\\cultshooter\\source\\cultshooter\\cultshooter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
