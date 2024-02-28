@@ -45,5 +45,17 @@
     <ClInclude Include="..\..\Source\CultShooter\PlayerCharacter.h">
       <Filter>Source\CultShooter</Filter>
     </ClInclude>
+    <Filter Include="Source\CultShooter\Private">
+      <UniqueIdentifier>{00074C82-2C94-38D5-8486-1F554F4783CC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CultShooter\Private\LlamaPlayerController.cpp">
+      <Filter>Source\CultShooter\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\CultShooter\Public">
+      <UniqueIdentifier>{6EB865E9-6DD5-3910-B4BF-A05AB862DE97}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\CultShooter\Public\LlamaPlayerController.h">
+      <Filter>Source\CultShooter\Public</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

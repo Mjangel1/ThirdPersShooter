@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CultShooterModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbeacf48ed45ddc2ea71dc29d4a33f7fa0c01139")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d76657cd6ba7e445be69ad258ddb7291aaf917b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CultShooterModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CultShooterModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

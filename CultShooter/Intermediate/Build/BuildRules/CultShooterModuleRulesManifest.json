@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Marcelo\\Documents\\Unreal Projects\\ThirdPersShooter\\CultShooter\\Source\\CultShooter\\CultShooter.Build.cs",
-		"C:\\Users\\Marcelo\\Documents\\Unreal Projects\\ThirdPersShooter\\CultShooter\\Source\\CultShooter.Target.cs",
-		"C:\\Users\\Marcelo\\Documents\\Unreal Projects\\ThirdPersShooter\\CultShooter\\Source\\CultShooterEditor.Target.cs"
+		"C:\\Users\\Etern\\Documents\\GitHub\\GroupProject\\ThirdPersShooter\\CultShooter\\Source\\CultShooter\\CultShooter.Build.cs",
+		"C:\\Users\\Etern\\Documents\\GitHub\\GroupProject\\ThirdPersShooter\\CultShooter\\Source\\CultShooter.Target.cs",
+		"C:\\Users\\Etern\\Documents\\GitHub\\GroupProject\\ThirdPersShooter\\CultShooter\\Source\\CultShooterEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }
